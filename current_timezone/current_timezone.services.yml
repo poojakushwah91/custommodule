@@ -1,0 +1,3 @@
+services:
+  current_timezone.timezone:
+    class: Drupal\current_timezone\TimezoneService
